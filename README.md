@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Will
+
+I'm interested in RL, NLP, Trading, Backtesting, & especially the intersection of them. I also enjoy sailing and have worked on semi-autonomous boat projects in the past.
+
+- 🔭 I’m currently working on a trade backtesting engine that simulates the microstructure of exchanges, written in Rust.
 
 <!--
 **Wisaacj/Wisaacj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
