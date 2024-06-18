@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Will
 
-I'm interested in RL, NLP, Trading & Backtesting, and especially the intersection of them all. I also enjoy sailing and have worked on semi-autonomous boat projects in the past.
+I'm interested in RL, NLP, Trading & Backtesting, especially the intersection of them all. I also enjoy sailing and have built a semi-autonomous boat in the past.
 
 - 🔭 I’m currently working on a trade backtesting engine that simulates the microstructure of exchanges, written in Rust.
 
