@@ -2,7 +2,10 @@
 
 I'm interested in RL, NLP, Trading & Backtesting, especially the intersection of them all. I also enjoy sailing and have built a semi-autonomous boat in the past.
 
-- 🔭 I’m currently working on a trade backtesting engine that simulates the microstructure of exchanges, written in Rust.
+### 🔭 I’m currently working on
+- A trade backtesting engine for simulating the microstructure of exchanges, written in Rust.
+- A reverse-mode auto-differentation engine, written in Rust.
+
 
 <!--
 **Wisaacj/Wisaacj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
