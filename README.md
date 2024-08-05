@@ -3,8 +3,8 @@
 I'm interested in reinforcement learning, natural language processing, trading & backtesting; especially the intersection of them all. I also enjoy sailing and built a semi-autonomous boat in the past.
 
 ### 🔭 I’m currently working on
-- A trade backtesting engine for simulating the microstructure of exchanges, written in Rust.
-- A reverse-mode auto-differentation engine, written in Rust.
+- A trade backtesting engine for simulating the microstructure of exchanges, written in Rust :crab:.
+- A reverse-mode auto-differentation engine, also written in Rust.
 
 
 <!--
